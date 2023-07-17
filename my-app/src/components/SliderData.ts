@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+        image:
+        'https://a0.muscache.com/im/pictures/35c96300-4aec-4549-86ae-8a6cd2aab035.jpg?im_w=960'
+    },
+    {
+        image:
+        'https://a0.muscache.com/im/pictures/c4818952-e010-4a91-98a7-8d332ee582b1.jpg?im_w=1200'
+    },
+    {
+        image:
+        'https://a0.muscache.com/im/pictures/410c294d-ecc6-49a1-8ee1-5b1a17788197.jpg?im_w=1200'
+    },
+    {
+        image:
+        'https://a0.muscache.com/im/pictures/23d16bd5-a627-4f27-834c-c3868c0f4ae8.jpg?im_w=1200'
+    },
+    {
+        image:
+        'https://a0.muscache.com/im/pictures/c580f702-695d-4a03-8372-711c2e2c30b6.jpg?im_w=1200'
+    },
+]
