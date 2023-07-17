@@ -10,8 +10,9 @@ export default function Home() {
     <div>
       <Head>
         <title>Castleman Retreats</title>
+        <meta name='description' content='N/A'/>
       </Head>
-      <Hero />
+      <Hero heading='Castleman Retreats' message='Nestled in Cromer, Castleman Chalets offer a serene coastal retreat.'/>
     </div>
   )
 }
