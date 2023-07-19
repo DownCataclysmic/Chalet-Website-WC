@@ -2,8 +2,7 @@
 
 # Chalet Booking Website
 
-![Chalet Booking Website]([![image](https://github.com/DownCataclysmic/Chalet-Website-WC/assets/98960985/c92f81b6-ae4b-4a17-a554-f0ad1fdd3075](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimplyseaviews.co.uk%2Flistings%2F463571%2F48-kings-chalet-park%2F&psig=AOvVaw0qOKZ0TDaUKZWeagSerPBH&ust=1689897341769000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC-iaj8m4ADFQAAAAAdAAAAABAF))
-)
+![image](https://github.com/DownCataclysmic/Chalet-Website-WC/assets/98960985/6cc7e55e-3afd-4721-8cfd-af0a63d65b1c)
 
 Welcome to the Chalet Booking Website! This platform serves as the main way to book your ideal stay at a luxurious chalet. Whether you're planning a family vacation, a romantic getaway, or a group retreat, our website offers a seamless booking experience with the help of React.js, Next.js, Tailwind CSS, and TypeScript.
 
