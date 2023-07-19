@@ -29,3 +29,7 @@ body {
 .custom-img {
   background-image: url(https://londranews.com/english/wp-content/uploads/2022/01/73137-cromer-pier-in-norfolk.jpg);
 }
+
+html {
+  scroll-behavior: smooth;
+}
