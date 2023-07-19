@@ -15,7 +15,7 @@ export default function Home() {
         <title>Castleman Retreats</title>
         <meta name='description' content='N/A'/>
       </Head>
-      <Hero heading='Castleman Retreats' message='Nestled in Cromer, our Castleman Chalet offers a serene coastal retreat.'/>
+      <Hero heading='Castleman Retreats' message='Nestled in Cromer, our Castleman Chalet offers a serene coastal retreat.' showButton/>
       <Slider slides={SliderData}/>
     </div>
   )

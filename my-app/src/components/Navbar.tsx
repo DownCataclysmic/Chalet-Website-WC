@@ -33,7 +33,7 @@ const Navbar = () => {
             </Link>
             <ul style={{color:`${textColor}`}} className='hidden sm:flex'>
                 <li className='text-xl p-4'>
-                    <Link href='/'>onClick</Link>
+                    <Link href='/'>Home</Link>
                 </li>
                 <li className='text-xl p-4'>
                     <Link href='/#gallery'>Gallery</Link>
