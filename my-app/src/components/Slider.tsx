@@ -52,6 +52,7 @@ const Slider: React.FC<SliderProps> = ({ slides }) => {
                     width="1440"
                     height="600"
                     objectFit="cover"
+
                   />
                 )}
                 <FaArrowCircleRight
